@@ -49,3 +49,7 @@ ESC     - Exit
 
 - Map images are stored in `img/maps/`.
 - ImGui is vendored under `vendor/imgui/`.
+
+## Contact
+
+You can find me on Discord: `m3dus.aa`
