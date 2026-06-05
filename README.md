@@ -9,7 +9,6 @@ This repository is provided for educational and research purposes. Use it only i
 ## Features
 
 - Windows overlay built with DirectX 11 and ImGui
-- Goose Goose Duck process and `GameAssembly.dll` discovery
 - Memory-reader driven game-state snapshots
 - ESP rendering, radar/minimap support, and configurable menu
 - Optional gameplay-related configuration hooks
@@ -43,8 +42,6 @@ x64/<Configuration>/
 ```
 
 ## Runtime Notes
-
-The executable expects a driver session to be available before startup. It waits for a running Goose Goose Duck process, resolves `GameAssembly.dll`, starts the game-state reader, and then creates the overlay.
 
 Default controls shown by the app:
 
