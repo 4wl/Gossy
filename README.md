@@ -2,6 +2,8 @@
 
 Gossy is a Windows x64 C++ project for an ImGui/DirectX 11 overlay targeting Goose Goose Duck. The project is organized as a Visual Studio solution and includes source code for process discovery, module resolution, game-state reading, overlay rendering, menu controls, minimap rendering, and configurable visual options.
 
+This project is not finished and should be treated as a work in progress. Some parts may be incomplete, unstable, or require changes before they work in your own environment.
+
 This repository is provided for educational and research purposes. Use it only in environments where you have permission and where it does not violate software terms, fair-play rules, or local law.
 
 ## Features
@@ -22,6 +24,10 @@ This repository is provided for educational and research purposes. Use it only i
 - Windows SDK 10.0
 - x64 build target
 - A compatible driver/session layer expected by `DriverComm`
+
+## Usage Notice
+
+This project does not include a kernel driver. If you want to use or test it, you must provide your own compatible kernel driver/session implementation for the `DriverComm` layer. Otherwise, you will need to modify the project and experiment with your own memory-access approach.
 
 ## Build
 
