@@ -14,25 +14,6 @@ This repository is provided for educational and research purposes. Use it only i
 - Bundled ImGui vendor sources
 - Visual Studio solution for Debug and Release x64 builds
 
-## Project Structure
-
-```text
-.
-|-- Goosssy.sln
-|-- GoosssyESP.vcxproj
-|-- img/
-|   `-- maps/
-|-- src/
-|   `-- esp/
-|       |-- core/
-|       |-- data/
-|       |-- hacks/
-|       |-- render/
-|       `-- vendor/
-`-- vendor/
-    `-- imgui/
-```
-
 ## Requirements
 
 - Windows 10 or newer
