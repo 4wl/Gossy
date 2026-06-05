@@ -35,12 +35,6 @@ This project does not include a kernel driver. If you want to use or test it, yo
 3. Choose either `Debug` or `Release`.
 4. Build the `GoosssyESP` project.
 
-Build outputs are written under:
-
-```text
-x64/<Configuration>/
-```
-
 ## Runtime Notes
 
 Default controls shown by the app:
