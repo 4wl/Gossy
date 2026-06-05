@@ -62,5 +62,3 @@ ESC     - Exit
 - ImGui is vendored under `vendor/imgui/`.
 
 ## Disclaimer
-
-This code is not affiliated with Goose Goose Duck, Gaggle Studios, Microsoft, or ImGui. The author is responsible for how the software is built, distributed, and used.
