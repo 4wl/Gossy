@@ -57,6 +57,5 @@ ESC     - Exit
 
 ## Repository Notes
 
-- Visual Studio user files, build outputs, logs, and intermediate artifacts are ignored by `.gitignore`.
 - Map images are stored in `img/maps/`.
 - ImGui is vendored under `vendor/imgui/`.
