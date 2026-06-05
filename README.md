@@ -31,7 +31,7 @@ This project does not include a kernel driver. If you want to use or test it, yo
 
 1. Open `Goosssy.sln` in Visual Studio 2022.
 2. Select `x64` as the target platform.
-3. Choose either `Debug` or `Release`.
+3. Choose `Release`.
 4. Build the `GoosssyESP` project.
 
 ## Runtime Notes
