@@ -13,7 +13,6 @@ This repository is provided for educational and research purposes. Use it only i
 - ESP rendering, radar/minimap support, and configurable menu
 - Optional gameplay-related configuration hooks
 - Bundled ImGui vendor sources
-- Visual Studio solution for Debug and Release x64 builds
 
 ## Requirements
 
